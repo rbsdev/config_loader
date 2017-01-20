@@ -1,21 +1,26 @@
 Config Loader
-===========
+=============
 
-[![Build Status](https://travis-ci.org/ateliedocodigo/config_loader.svg?branch=master)](https://travis-ci.org/ateliedocodigo/config_loader)
-[![Requirements Status](https://requires.io/github/ateliedocodigo/config_loader/requirements.svg?branch=master)](https://requires.io/github/ateliedocodigo/config_loader/requirements/?branch=master)
-[![Coverage Status](https://coveralls.io/repos/github/ateliedocodigo/config_loader/badge.svg?branch=master)](https://coveralls.io/github/ateliedocodigo/config_loader?branch=master)
+|Build Status| |Requirements Status| |Coverage Status|
 
+Running tests with ``tox``
+--------------------------
 
-Running tests with `tox`
-----
+Install ``tox``
 
-Install `tox`
-```
-$ pip install tox
-```
+::
+
+    $ pip install tox
 
 Run tests
 
-```
-tox
-```
+::
+
+    tox
+
+.. |Build Status| image:: https://travis-ci.org/rbsdev/config_loader.svg?branch=master
+   :target: https://travis-ci.org/rbsdev/config_loader
+.. |Requirements Status| image:: https://requires.io/github/rbsdev/config_loader/requirements.svg?branch=master
+   :target: https://requires.io/github/rbsdev/config_loader/requirements/?branch=master
+.. |Coverage Status| image:: https://coveralls.io/repos/github/rbsdev/config_loader/badge.svg?branch=master
+   :target: https://coveralls.io/github/rbsdev/config_loader?branch=master
