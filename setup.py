@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 import setuptools
 
-__version__ = "0.0.0"
+__version__ = "1.0.0"
 
 install_requires = [
     'PyYAML>=3.10',
